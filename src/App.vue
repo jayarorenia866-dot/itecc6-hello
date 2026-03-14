@@ -1,7 +1,7 @@
 <template>
   <div class="app">
     <h1>{{ message }}</h1>
-    <p>Hello! I am [Your Name] — ITECC6</p>
+    <p>Hello! I am [Jay-ar L. Orenia] — ITECC6</p>
   </div>
 </template>
 
